@@ -86,7 +86,7 @@ You can clear cache manually  by restarting the application.
 ## 📮 Postman Collection
 
 Import `src/main/resources/sample/FX-Service-Postman-Collection.json` to test the following endpoints:
-Import `src/main/resources/sample/sample_bulk.csv` to test the /api/bulk end point.
+Import `src/main/resources/sample/sample_bulk.csv` to test the `/api/bulk` end point.
 
 | Method | Endpoint             | Description                         |
 |--------|----------------------|-------------------------------------|
