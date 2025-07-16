@@ -1,0 +1,4 @@
+<configuration>
+    <root level="WARN"/>
+    <logger name="com.example.fx" level="ERROR"/>
+</configuration>
